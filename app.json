@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Nahuelcura Connect",
+    "slug": "nahuelcura-connect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#292C31"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "cl.nahuelcura.connect"
+    },
+    "android": {
+      "package": "cl.nahuelcura.connect",
+      "adaptiveIcon": {
+        "backgroundColor": "#292C31"
+      }
+    }
+  }
+}
